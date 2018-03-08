@@ -1,6 +1,6 @@
 - Java 基础知识
   - [基本类型](/00-page-base/0.md)
-  - [友链设置](/plugin)
+  - [运算符](/00-page-base/1.md)
   - [常见问题](/common-problem)
 
 - 进阶设定
