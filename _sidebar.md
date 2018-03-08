@@ -1,5 +1,5 @@
-- 开始使用
-  - [快速开始](/start)
+- Java 基础知识
+  - [基本类型](/00-page-base/0.md)
   - [友链设置](/plugin)
   - [常见问题](/common-problem)
 

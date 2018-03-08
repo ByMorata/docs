@@ -9,4 +9,4 @@
 
 
 ## [开发日志 Changelog](/changelog)
-<p style="float: right;">Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+<p style="float: right;">Hosted by <a href="https://github.com" style="font-weight: bold">Github Pages</a></p>
