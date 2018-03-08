@@ -1,4 +1,4 @@
-# 老莫 Java 学习笔记 <small>1.2 Pro</small>
+# laoyo Java docs <small>1.2 Pro</small>
 
 艳惊四方，性能飞跃
 
